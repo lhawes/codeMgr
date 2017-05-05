@@ -1,0 +1,23 @@
+[{
+  "name": "Google search engine",
+  "properties": {
+    "note": "good search engine",
+    "link": "http://google.com"
+  },
+  "tags": [
+    "search", "web", "google"
+  ],
+  "created": "date object",
+  "active": true
+},{
+  "name": "Yahoo search engine",
+  "properties": {
+    "note": "different search engine",
+    "link": "http://yahoo.com"
+  },
+  "tags": [
+    "search", "web", "yahoo"
+  ],
+  "created": "date object",
+  "active": true
+}];
