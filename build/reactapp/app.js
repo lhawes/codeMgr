@@ -13,6 +13,7 @@ class App extends React.Component {
     return (
       <div>
         <h1>{this.state.message}</h1>
+        <h1>{window.cms.winMessage}</h1>
       </div>
     );
   };
