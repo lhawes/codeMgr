@@ -1,0 +1,12 @@
+[{
+  "name": "trick name",
+  "category": "trick",
+  "properties": {
+    "content": "huge escaped string of code"
+  },
+  "tags": [
+    "javascript","node"
+  ],
+  "created": "date object",
+  "active": true
+}];
