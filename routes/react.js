@@ -3,7 +3,7 @@ var router = express.Router();
 
 var info = {
   title: 'react',
-  testObj: JSON.stringify({prop: 'test', num: 12})
+  testObj: JSON.stringify({winMessage: "confirm server variable passed"})
 };
 
 /* GET home page. */
