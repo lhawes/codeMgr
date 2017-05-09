@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "webpack && node ./bin/www",
+    "start": "node_modules/.bin/webpack && node ./bin/www",
     "lstart": "nodemon ./bin/www",
     "webpack": "webpack",
     "build": "webpack --watch --progress"
