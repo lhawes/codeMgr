@@ -16,9 +16,7 @@
     "jade": "~1.11.0",
     "morgan": "~1.8.1",
     "serve-favicon": "~2.4.2",
-    "uglify-js": "^3.0.1"
-  },
-  "devDependencies": {
+    "uglify-js": "^3.0.1",
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.0",
     "babel-preset-env": "^1.4.0",
